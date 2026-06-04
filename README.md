@@ -72,3 +72,9 @@ The project focuses on transforming raw business data into meaningful insights t
 🔹 Improve Canada market penetration
 🔹 Increase focus on customer retention programs
 🔹 Promote premium shipping options for high-value orders
+
+---
+📸 Project Preview
+
+<img width="1270" height="717" alt="image" src="https://github.com/user-attachments/assets/f2f99d7f-1f38-4d22-910f-43e53142af40" />
+
