@@ -72,14 +72,3 @@ The project focuses on transforming raw business data into meaningful insights t
 🔹 Improve Canada market penetration
 🔹 Increase focus on customer retention programs
 🔹 Promote premium shipping options for high-value orders
-
-
-
-
-
-
-> Add your Power BI dashboard screenshots here for better presentation.
-
----
-
-# 🌟 If you like this project, give it a Star on GitHub!
